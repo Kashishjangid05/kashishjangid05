@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **anythimg**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **kashishjangidkj@gmail.com**
 
