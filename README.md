@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kashishjangidkj@gmail.com**
 
-- 📄 Know about my experiences [python-1+year , C (Programming)-1+ year](python-1+year , C (Programming)-1+ year)
+- 📄 Know about my experience [python-1+year , C (Programming)-1+ year](python-1+year , C (Programming)-1+ year)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
