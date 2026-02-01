@@ -19,6 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjangid05&" alt="kashishjangid05" /></p>
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Kashish_Jangid&theme=dark" />
+<p>
+  <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Kashish_Jangid&theme=dark" alt="Kashish_Jangid" />
 </p>
