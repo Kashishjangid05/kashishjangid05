@@ -1,24 +1,102 @@
 <h1 align="center">Hi 👋, I'm Kashish Jangid</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishjangid05&label=Profile%20views&color=0e75b6&style=flat" alt="kashishjangid05" /> </p>
+AI/ML enthusiast with a solid foundation in Python, Data Structures & Algorithms, and problem-solving.Passionate about building machine learning solutions and applying data-driven approaches to solve real-world problems.
 
-# 💫 About Me:
-🔭 I’m currently working on AI Project<br><br>🌱 I’m currently learning Artificial Intelligence and Data Science<br><br>💬 Ask me about anything<br><br>📫 How to reach me kashishjangidkj@gmail.com<br><br>📄 Know about my experience [python , C (Programming) , C++]
+---
 
+## 🔹 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kashish_jangid005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kashish-jangid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashishjangidkj@gmail.com) 
+- 🎓 Computer Science undergraduate specializing in Artificial Intelligence and Data Science with excellent academic performance (CGPA: 9.7+)
+- 💻 Strong foundation in Data Structures & Algorithms with problem-solving experience in C++
+- 🐍 Proficient in Python with hands-on experience in data-driven projects
+- 🤖 Interested in building intelligent systems and exploring AI-driven solutions
+- 🚀 Aspiring Machine Learning Engineer / Data Scientist / AI Engineer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ! [MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 🔹 Technical Skills
+
+**Programming Languages**
+- Python, C++. C, HTML, SQL(Basicss)
+
+**Data Science & Machine Learning**
+- NumPy, Pandas
+- Matplotlib
+- Scikit-learn (Learning)
+- Machine Learning Fundamentals
+
+**Tools & Platforms**
+- Git & GitHub
+- Jupyter Notebook
+- Linux (basic)
+- VS Code
+
+---
+
+## 🔹 Featured Projects
+
+### 📌 PythonBasicProjects
+- Developed a collection of Python-based utility applications including chatbot, calculator, file organizer, and API-based projects
+- Implemented core programming concepts such as file handling, API integration, and automation
+- Built real-world mini projects to strengthen problem-solving and logical thinking skills
+- Organized and managed multiple projects using Git and GitHub for version control
+
+### 📌 E-Commerce Website
+- Developed a responsive e-commerce website with product listing and shopping cart functionality
+- Implemented dynamic features like add-to-cart and total price calculation.
+- Designed a clean, mobile-friendly user interface.
+
+### 📌 Portfolio Website
+- Developed a personal portfolio website using HTML, CSS, and JavaScript
+- Implemented responsive design for mobile and desktop devices
+- Showcased projects, skills, and contact information
+
+### 📌 Python
+- Strong understanding of Python fundamentals, OOP, and problem-solving
+- Practiced coding through multiple logic-based programs and real-world scenarios
+- Hands-on experience with file handling and exception handling
+
+### 📌 DSA in C++
+- Solved 100+ problems
+- Topics: Arrays, Strings, Linked List, Stack, Queue, Recursion, DP, Graphs
+- Focus on optimized solutions & edge cases
+
+---
+
+## 🔹 What I'm Currently Learning
+- Machine Learning concepts
+- Building Real World Projects
+- Exploring new technologies 
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Kashishjangid05
+- LinkedIn: https://www.linkedin.com/in/kashish-jangid/
+
+---
+
+⭐ Feel free to explore my repositories and projects!
+
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjangid05&show_icons=true&locale=en&layout=compact" alt="kashishjangid05" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjangid05&show_icons=true&locale=en&layout=compact" alt="kashishjangid05" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashishjangid05&show_icons=true&locale=en" alt="kashishjangid05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjangid05&" alt="kashishjangid05" /></p>
+## 🧠 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kashish_Jangid?theme=dark&font=Baloo&ext=heatmap)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashishjangid05&" alt="kashishjangid05" /></p>
 
 <p>
   <img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Kashish_Jangid&theme=dark" alt="Kashish_Jangid" />
-</p>
+</p> -->
+
+## 📫 Connect With Me
+- Email: kashishjangidkj@gmail.com
+- GitHub: https://github.com/Kashishjangid05
+- LinkedIn: https://www.linkedin.com/in/kashish-jangid/
+
+---
+
+⭐ Feel free to explore my repositories and projects!
