@@ -70,13 +70,6 @@ AI/ML enthusiast with a solid foundation in Python, Data Structures & Algorithms
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/Kashishjangid05
-- LinkedIn: https://www.linkedin.com/in/kashish-jangid/
-
----
-
-⭐ Feel free to explore my repositories and projects!
 
 # 📊 GitHub Stats:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashishjangid05&show_icons=true&locale=en&layout=compact" alt="kashishjangid05" /></p> -->
